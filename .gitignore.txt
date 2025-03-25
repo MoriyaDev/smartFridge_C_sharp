@@ -1,0 +1,19 @@
+# Ignore build folders
+bin/
+obj/
+smart-fridge-moriya-100-d28919ee43bf
+SmartFridge.Service/smart-fridge-moriya-100-d28919ee43bf.json
+.vs/
+*.user
+*.suo
+*.vsidx
+*.v9.bin
+*.dtbcache.v2
+*.futdcache.v2
+*.pdb
+*.dll
+*.exe
+*.cache
+*.json
+/bin/
+/obj/
